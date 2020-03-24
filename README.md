@@ -1,14 +1,22 @@
 # Learning CS229
+The repo records my solutions to all assignments and projects of Stanford CS229 Fall 2017.
 
-### Introduction 💡
-The repo records my solutions to all assignments and projects of Stanford CS229 Fall 2017. <br>
+One of many my self-studied courses. You can also check out some of them via belowing links:
+- [CS224n Natural Language Processing with Deep Learning, Stanford](https://github.com/LFhase/Learning_CS224n)
+- [CS224w Machine Learning with Graphs, Stanford](https://github.com/LFhase/Learning_CS224w)
+
+> *It's the open Internet and the great and kind minds that makes a glance at the beautiful knowledge world possible for us navigators.*
+
+***Thousand Thanks** to those kind and cool people!*
+
+## Introduction 💡
 The main learning materials are Fall 2018 class notes and CS229 open course videos.
 
 You can open a new issue or send me a email if you find any mistakes.
 
 The course page is here. http://cs229.stanford.edu/syllabus.html
 
-### Accomplishment 🎈 
+## Accomplishment 🎈 
 - Assignment #1 (😄)
   - problem set: [ps1](https://github.com/LFhase/CS229/blob/master/Assignments/Assignment1/ps1.pdf)
   - solution: [link](https://github.com/LFhase/CS229/blob/master/Assignments/Assignment1/assig1.pdf)
@@ -34,7 +42,7 @@ The course page is here. http://cs229.stanford.edu/syllabus.html
 - Project
   - I'll try to solve one of problems in kaggle competition and take it as my class projcet. More details can be seen in my repository.
 
-### Tools 🔨
+## Tools 🔨
 VS Code <br>
 Python 3.6.4 <br>
 [PyTorch 1.0.0](https://pytorch.org) <br>
