@@ -9,6 +9,8 @@ One of many my self-studied courses. You can also check out some of them via bel
 
 ***Thousand Thanks** to those kind and cool people!*
 
+***[Disclaimer]** For students who are taking this course, you have to be responsible for yourself and obey the Honor Code not to refer this repo.*
+
 ## Introduction 💡
 The main learning materials are Fall 2018 class notes and CS229 open course videos.
 
